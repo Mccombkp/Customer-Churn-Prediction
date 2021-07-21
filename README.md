@@ -15,7 +15,6 @@ My analysis is an example of how this model can be implemented using Python.
 import pandas as pd
 import numpy as np
 from pandasql import sqldf
-DATA_PATH = 'https://raw.githubusercontent.com/Truebill/DS2_Challenge/master/tb_datascience_challenge2.csv'
 
 df = pd.read_csv('TV_company_AB.csv')
 

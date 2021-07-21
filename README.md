@@ -1,4 +1,4 @@
-# Customer-Churn-Prediction
+# Customer Churn Prediction
 
 The data from below is from an AB test on whether a hypothetical, contractual TV company should offer a 7 day premium free trial for 7 days, as opposed to their current 24 hours premium trial. After the end of the trial period, those who have not cancelled, start their billing cycle and pay for the premium.
 
